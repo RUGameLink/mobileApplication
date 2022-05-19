@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">My subscriptions</string>
+    <string name="sing_in">АLog in with</string>
+    <string name="google">Log in with Google</string>
+    <string name="title">Name of service</string>
+    <string-array name="subType">
+        <item>Temporary</item>
+        <item>Permanent</item>
+    </string-array>
+    <string-array name="currency">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>CNY</item>
+    </string-array>
+    <string name="timeType">Temporary</string>
+    <string name="permanentType">Permanent</string>
+    <string name="cost_text">Cost</string>
+    <string name="currency_text">Currency</string>
+    <string name="first_date_text">Beginning of subscriptions</string>
+    <string name="last_date_text">End of subscription</string>
+    <string name="days_text">Days to go until the end of the subscription</string>
+    <string name="sub_type_text">ТType of subscription</string>
+    <string name="titleIsNull">You did not enter a name</string>
+    <string name="costIsNull">You did not enter a cost</string>
+    <string name="firstDateIsNull">You did not enter a subscription start date</string>
+    <string name="lastDateIsNull">You did not enter a subscription end date</string>
+    <string name="firstDateMoreThanLastDate">The end date of the subscription is less than the start date</string>
+    <string name="addSuccess">Subscription successfully added</string>
+    <string name="date_selector">Specify the date</string>
+    <string name="date_first">Subscription start date</string>
+    <string name="date_last">Subscription end date</string>
+    <string name="select_date">Set the date</string>
+    <string name="txtAnalytics">The total for subscriptions is required:</string>
+    <string name="txtRubCount">Rubles</string>
+    <string name="txtDolCount">Dollars</string>
+    <string name="txtCynCount">Yuan</string>
+</resources>

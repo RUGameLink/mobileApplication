@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Мои подписки</string>
+    <string name="sing_in">Авторизоваться с помощью</string>
+    <string name="google">Авторизоваться с помощью Google</string>
+    <string name="title">Название сервиса</string>
+    <string-array name="subType">
+        <item>Временная</item>
+        <item>Постоянная</item>
+    </string-array>
+    <string-array name="currency">
+        <item>USD</item>
+        <item>RUB</item>
+        <item>CNY</item>
+    </string-array>
+    <string name="timeType">Временная</string>
+    <string name="permanentType">Постоянная</string>
+    <string name="cost_text">Стоимость</string>
+    <string name="currency_text">Валюта</string>
+    <string name="first_date_text">Начало подписки</string>
+    <string name="last_date_text">Конец подписки</string>
+    <string name="days_text">Осталось дней до конца подписки</string>
+    <string name="sub_type_text">Тип подписки</string>
+    <string name="titleIsNull">Вы не ввели название</string>
+    <string name="costIsNull">Вы не ввели стоимость</string>
+    <string name="firstDateIsNull">Вы не ввели дату начала подписки</string>
+    <string name="lastDateIsNull">Вы не ввели дату окончания подписки</string>
+    <string name="firstDateMoreThanLastDate">Дата окончания подписки меньше даты начала</string>
+    <string name="addSuccess">Подписка успешно добавлена</string>
+    <string name="date_selector">Указать дату</string>
+    <string name="date_first">Дата начала подписки</string>
+    <string name="date_last">Дата конца подписки</string>
+    <string name="select_date">Задать дату</string>
+    <string name="txtAnalytics">Суммарно на подписки необходимо:</string>
+    <string name="txtRubCount">Рублей</string>
+    <string name="txtDolCount">Долларов</string>
+    <string name="txtCynCount">Юаней</string>
+</resources>
